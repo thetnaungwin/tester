@@ -24,7 +24,7 @@ void showConsole() {
 }
 
 int main() {
-    std::cout << "Console is visible.\n";
+    std::cout << "Console is visible.\n"; //a
     Sleep(2000);
 
     std::cout << "Hiding console in 2 seconds...\n";

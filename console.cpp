@@ -29,7 +29,7 @@ int main() {
 
     std::cout << "Hiding console in 2 seconds...\n";
     Sleep(2000);
-    hideConsole();
+    hideConsole();  //add
 
     MessageBox(NULL, "Console is hidden now!", "Info", MB_OK);
 

@@ -2,7 +2,7 @@
 #include <iostream>
 
 void hideConsole() {
-    FreeConsole(); // Detach console
+    FreeConsole(); // Detach console for that app
 }
 
 void showConsole() {
